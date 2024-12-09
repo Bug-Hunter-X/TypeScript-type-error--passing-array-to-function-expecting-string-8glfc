@@ -1,0 +1,3 @@
+# TypeScript Type Error: Passing Array to Function Expecting String
+
+This repository demonstrates a common type error in TypeScript where an array is passed to a function that expects a string argument.  The error occurs because the function's type definition doesn't match the type of the argument passed.  The solution involves correcting the function call to provide a string argument or modifying the function's type signature to accept an array.
